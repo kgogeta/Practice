@@ -1,2 +1,2 @@
-# Display the output
+# Display the input
 print ("New Python File")
